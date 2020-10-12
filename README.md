@@ -1,4 +1,5 @@
-O proejto NextFlix-Clone-App é um projeto onde se faz o uso da biblioteca: - REACT
+O proejto NextFlix-Clone-App é um projeto onde se faz o uso da biblioteca: 
+- REACT
 - API e WebService do site TMDB
 - JavaScript
 - HTML AND CSS
